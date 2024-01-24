@@ -1,0 +1,1 @@
+C:\Users\esteb\Source\Repos\ProyectoProgreso2BCHSTR\BochaStoreProyecto.Maui\BochaStoreProyecto.Maui.csproj;x64
